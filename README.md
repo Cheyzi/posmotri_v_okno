@@ -1,1 +1,1 @@
-git@github.com:Cheyzi/posmotri_v_okno.git
+https://github.com/Cheyzi/posmotri_v_okno/tree/main
